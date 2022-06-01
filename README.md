@@ -1,5 +1,6 @@
 # WenArgonEmoji-QQ
 适用Wordpress的Argon主题的一套QQ表情，现已并入WenArgonEmoji项目组
+Demo（截图为静图，实际为动图）：
 <p>表情面板</p>
 <div align="center">
 	<img src="https://github.com/Andy17269/WenArgonEmoji-QQ/blob/main/READMEIMG/QQ.PNG?raw=true" width="100%">
